@@ -1,5 +1,5 @@
 # Full-Time
-Collection of Summer 2024 Internships and resources! Although this is maily my personal list that I find, please feel free to use and contribute to this list. I will try to keep this page updated and maintained. 
+Collection of Full-Time cybersecurity related jobs and resources! 
 
 Shoutout to **[PittCSC](https://github.com/pittcsc)** for developing the inital framework and list.
 
