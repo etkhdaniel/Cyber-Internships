@@ -9,7 +9,7 @@ Shoutout to **[PittCSC](https://github.com/pittcsc)** for developing the inital 
 <div align="center">
 	<p>
 		<a href="https://simplify.jobs/?invite=2d8fe25021b&utm_source=referral">
-			<b>Applying to internships?</b>
+			<b>Applying to full-time opportunities?</b>
 			<br>
 			Autofill all your applications in a single click.
 			<br>
