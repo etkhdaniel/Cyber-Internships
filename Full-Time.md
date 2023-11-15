@@ -38,36 +38,6 @@ Shoutout to **[PittCSC](https://github.com/pittcsc)** for developing the inital 
 <br>
 <div align="center">
 	<p>
-		<a href="https://www.parkerdewey.com/">
-			<b>Want a micro-internship?</b>
-			<br>
-			Parker Dewey offers short-term paid, professional projects.
-			<br>
-			<div>
-				<img src="https://res.cloudinary.com/dkhfkkwzf/image/upload/parker_iptrl6.jpg" width="200"  alt="Parker">
-			</div>
-		</a>
-		<sub><i>Open to all college studnets and recent graduates.</i></sub>
-	</p>
-</div>
-<br>
-<div align="center">
-	<p>
-		<a href="https://www.openavenuesfoundation.org/micro-internships">
-			<b>Want a micro-internship?</b>
-			<br>
-			Open Avenues offers paid micro-internships for students.
-			<br>
-			<div>
-				<img src="https://res.cloudinary.com/dkhfkkwzf/image/upload/openave_aqgpg9.jpg" width="550"  alt="OpenAve">
-			</div>
-		</a>
-		<sub><i>Open to all college studnets and recent graduates.</i></sub>
-	</p>
-</div>
-<br>
-<div align="center">
-	<p>
 		<a href="https://www.theforage.com/">
 			<b>Want a virtual work experience program?</b>
 			<br>
