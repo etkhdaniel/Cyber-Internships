@@ -132,4 +132,6 @@ Learn to build an application from scratch with [project based learning](https:/
 
 | Company       | Location       | Position Name                         |
 |---------------|----------------|---------------------------------------|
-| National Security Agency | Multiple Locations |[Cyber Network Professional - Offensive/Defensive Operations - Entry to Experienced Level](https://apply.intelligencecareers.gov/job-description/1220034) <br/> [Exploitation Analyst - Certified/Experienced](https://apply.intelligencecareers.gov/job-description/1219430)|
+| National Security Agency | Multiple Locations |[Computer Network Defense Analyst - Entry to Experienced Level](https://apply.intelligencecareers.gov/job-description/1217098) <br/> [
+Cryptologic Cyber Planner / Network Warfare Cyber Planner - Experienced Levels](https://apply.intelligencecareers.gov/job-description/1217364) <br/> [Cyber Network Professional - Offensive/Defensive Operations - Entry to Experienced Level](https://apply.intelligencecareers.gov/job-description/1220034) <br/> [Exploitation Analyst - Certified/Experienced](https://apply.intelligencecareers.gov/job-description/1219430) <br/> [
+Information System Security Professional - Entry to Expert Level](https://apply.intelligencecareers.gov/job-description/1217097) <br/> [Network Cyber Mitigations Analyst / System Vulnerability Analyst - Entry to Expert Level](https://apply.intelligencecareers.gov/job-description/1217099)|
