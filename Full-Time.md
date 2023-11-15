@@ -95,21 +95,7 @@ Shoutout to **[PittCSC](https://github.com/pittcsc)** for developing the inital 
 		<sub><i>Connect with professionals to gain career, industry, and interview guidance. Receive currated projects and internship offers based on interests and experiences.</i></sub>
 	</p>
 </div>	
-<br>
-<div align="center">
-	<p>
-		<a href="https://skilbi.com/">
-			<b>Interested in finance?</b>
-			<br>
-			Check out Adventis for a streamlined application process.
-			<br>
-			<div>
-				<img src="https://res.cloudinary.com/dkhfkkwzf/image/upload/adventis_xesmzm.jpg" width="150"  alt="Adventis">
-			</div>
-		</a>
-		<sub><i>All of your finance internships in one place. Save time and apply with Adventis.</i></sub>
-	</p>
-</div>
+
 ---
 
 To contribute:
