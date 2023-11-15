@@ -3,6 +3,7 @@ Collection of 2025 Cybersecurity Internships and resources!
 
 Shoutout to **[PittCSC](https://github.com/pittcsc)** for developing the inital framework and list.
 
+Click [here]() for a list of Full Time positions.
 ---
 ## Extra Resources 
 <div align="center">
