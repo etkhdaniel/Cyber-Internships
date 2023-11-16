@@ -54,12 +54,12 @@ Click [here](https://github.com/etkhdaniel/Cyber-Internships-2025/blob/main/Full
 <div align="center">
 	<p>
 		<a href="https://fedvte.usalearning.gov/public_fedvte.php">
-			<b>he Federal Virtual Training Environment (FedVTE) provides the following courses free of charge</b>
+			<b>The Federal Virtual Training Environment (FedVTE) provides the following courses free of charge</b>
 			<br>
 			Certification prep courses are available on topics such as Ethical Hacking, Certified Information Security Manager (CISM), and Certified Information Systems Security Professional (CISSP). 
 			<br>
 			<div>
-				<img src="https://res.cloudinary.com/dkhfkkwzf/image/upload/v1700125800/z4v1yxzc4o52jpx6v4ul.gif" width="150"  alt="FedVTE">
+				<img src="https://res.cloudinary.com/dkhfkkwzf/image/upload/v1700162858/FedVTE_qxznyp.png" width="150"  alt="FedVTE">
 			</div>
 		</a>
 		<sub><i>The Federal Virtual Training Environment (FedVTE) is a free, online, and on-demand cybersecurity training system. With courses ranging from beginner to advanced levels, you can strengthen or build your cybersecurity skillsets at your own pace and schedule! </i></sub>
