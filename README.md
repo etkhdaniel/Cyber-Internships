@@ -1,5 +1,5 @@
-# Cyber-Internship-2025
-Collection of 2025 Cybersecurity Internships and resources! 
+# Cyber-Internships
+Collection of Cybersecurity Internships and resources! 
 
 Shoutout to **[PittCSC](https://github.com/pittcsc)** for developing the inital framework and list.
 
