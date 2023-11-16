@@ -133,3 +133,4 @@ Learn to build an application from scratch with [project based learning](https:/
 | Company       | Location       | Position Name                         |
 |---------------|----------------|---------------------------------------|
 | PurpleBox | Atlanta, GA <br/> Remote | [Cybersecurity Intern](https://docs.google.com/forms/d/e/1FAIpQLSdZEz2jyJqGcfIe6ZTcPlsUGPSDlNUdk2BbBlrqRFu1tfOBTw/viewform)|
+| The Home Depot | Remote | [Cybersecurity Intern](https://careers.homedepot.com/job/19379211/cybersecurity-internship-remote-remote/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)|
