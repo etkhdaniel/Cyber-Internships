@@ -107,7 +107,7 @@ Click [here](https://github.com/etkhdaniel/Cyber-Internships-2025/blob/main/Full
 				<img src="https://res.cloudinary.com/dkhfkkwzf/image/upload/v1700125800/z4v1yxzc4o52jpx6v4ul.gif" width="150"  alt="ISC">
 			</div>
 		</a>
-		<sub><i>See yourself in cybersecurity. You don’t need experience — just the passion and drive to enter a demanding and rewarding field, one that opens limitless opportunities worldwide.</i></sub>
+		<sub><i>See yourself in cybersecurity? You don’t need experience — just the passion and drive to enter a demanding and rewarding field, one that opens limitless opportunities worldwide.</i></sub>
 	</p>
 </div>
 ---
