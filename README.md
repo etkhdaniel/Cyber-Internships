@@ -98,21 +98,6 @@ Click [here](https://github.com/etkhdaniel/Cyber-Internships-2025/blob/main/Full
 <br>
 <div align="center">
 	<p>
-		<a href="https://skilbi.com/">
-			<b>Interested in finance?</b>
-			<br>
-			Check out Adventis for a streamlined application process.
-			<br>
-			<div>
-				<img src="https://res.cloudinary.com/dkhfkkwzf/image/upload/adventis_xesmzm.jpg" width="150"  alt="Adventis">
-			</div>
-		</a>
-		<sub><i>All of your finance internships in one place. Save time and apply with Adventis.</i></sub>
-	</p>
-</div>
-<br>
-<div align="center">
-	<p>
 		<a href="https://www.isc2.org/landing/1mcc">
 			<b>FREE Entry-Level Cybersecurity Training + Certification Exam</b>
 			<br>
