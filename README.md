@@ -132,3 +132,4 @@ Learn to build an application from scratch with [project based learning](https:/
 
 | Company       | Location       | Position Name                         |
 |---------------|----------------|---------------------------------------|
+| PurpleBox | Atlanta, GA <br/> Remote | [Cybersecurity Intern](https://docs.google.com/forms/d/e/1FAIpQLSdZEz2jyJqGcfIe6ZTcPlsUGPSDlNUdk2BbBlrqRFu1tfOBTw/viewform)|
