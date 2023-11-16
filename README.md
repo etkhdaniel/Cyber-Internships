@@ -110,6 +110,21 @@ Click [here](https://github.com/etkhdaniel/Cyber-Internships-2025/blob/main/Full
 		<sub><i>All of your finance internships in one place. Save time and apply with Adventis.</i></sub>
 	</p>
 </div>
+<br>
+<div align="center">
+	<p>
+		<a href="https://www.isc2.org/landing/1mcc">
+			<b>FREE Entry-Level Cybersecurity Training + Certification Exam</b>
+			<br>
+			ISC2 Pledges One Million FREE ISC2 Certified in Cybersecurity Courses and Exams
+			<br>
+			<div>
+				<img src="https://res.cloudinary.com/dkhfkkwzf/image/upload/v1700125800/z4v1yxzc4o52jpx6v4ul.gif" width="150"  alt="ISC">
+			</div>
+		</a>
+		<sub><i>See yourself in cybersecurity. You don’t need experience — just the passion and drive to enter a demanding and rewarding field, one that opens limitless opportunities worldwide.</i></sub>
+	</p>
+</div>
 ---
 
 To contribute:
