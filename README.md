@@ -65,9 +65,9 @@ Click [here](https://github.com/etkhdaniel/Cyber-Internships-2025/blob/main/Full
 		<sub><i>The Federal Virtual Training Environment (FedVTE) is a free, online, and on-demand cybersecurity training system. With courses ranging from beginner to advanced levels, you can strengthen or build your cybersecurity skillsets at your own pace and schedule! </i></sub>
 	</p>
 </div>
----
 
 ### Women in Cybersecurity Extra Resources 
+---
 <div align="center">
 	<p>
 		<a href="https://www.wicys.org/events/wicys-2024/scholarships/">
