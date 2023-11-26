@@ -65,6 +65,21 @@ Click [here](https://github.com/etkhdaniel/Cyber-Internships-2025/blob/main/Full
 		<sub><i>The Federal Virtual Training Environment (FedVTE) is a free, online, and on-demand cybersecurity training system. With courses ranging from beginner to advanced levels, you can strengthen or build your cybersecurity skillsets at your own pace and schedule! </i></sub>
 	</p>
 </div>
+<br>
+<div align="center">
+	<p>
+		<a href="https://www.wicys.org/events/wicys-2024/scholarships/">
+			<b>Late Scholarship for WiCyS 2024 Conference</b>
+			<br>
+			Students MUST apply for a WiCyS scholarship to attend the conference (there is no general conference registration for students) and have a current WiCyS student membership to apply.
+			<br>
+			<div>
+				<img src="https://res.cloudinary.com/dkhfkkwzf/image/upload/v1700976524/WiCyS_kfbzz4.png" width="150"  alt="FedVTE">
+			</div>
+		</a>
+		<sub><i>The Student Scholarship awards reduced rate registration (includes all activities and meals) and two nights of complimentary shared lodging—April 11 and 12. Students receiving the scholarship will pay a minimal $40 registration processing fee instead of the conference registration cost of $450. </i></sub>
+	</p>
+</div>
 ---
 
 To contribute:
