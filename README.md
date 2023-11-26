@@ -66,7 +66,8 @@ Click [here](https://github.com/etkhdaniel/Cyber-Internships-2025/blob/main/Full
 	</p>
 </div>
 ---
-### Women in Cybersecurity Resources
+
+### Women in Cybersecurity Extra Resources 
 <div align="center">
 	<p>
 		<a href="https://www.wicys.org/events/wicys-2024/scholarships/">
