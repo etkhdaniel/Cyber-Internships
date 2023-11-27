@@ -65,6 +65,20 @@ Click [here](https://github.com/etkhdaniel/Cyber-Internships-2025/blob/main/Full
 		<sub><i>The Federal Virtual Training Environment (FedVTE) is a free, online, and on-demand cybersecurity training system. With courses ranging from beginner to advanced levels, you can strengthen or build your cybersecurity skillsets at your own pace and schedule! </i></sub>
 	</p>
 </div>
+<div align="center">
+	<p>
+		<a href="https://www.cyber-fasttrack.org/">
+			<b>Cyber FastTrack</b>
+			<br>
+			Simplifying and accelerating the path to a cybersecurity career for college students. 
+			<br>
+			<div>
+				<img src="https://res.cloudinary.com/dkhfkkwzf/image/upload/v1701126341/cft_gb5ejl.png" width="150"  alt="FedVTE">
+			</div>
+		</a>
+		<sub><i>Cyber FastTrack puts you on the quickest and most cost-effective path to a well-paid and in-demand career - whatever your starting point! </i></sub>
+	</p>
+</div>
 
 ### Women in Cybersecurity Extra Resources 
 ---
