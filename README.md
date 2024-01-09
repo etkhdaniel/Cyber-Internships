@@ -119,6 +119,7 @@ Learn to build an application from scratch with [project based learning](https:/
 | Company       | Location       | Position Name                         |
 |---------------|----------------|---------------------------------------|
 | Bruker | Billerica, MA | [Cybersecurity Intern](https://englishcareers-bruker.icims.com/jobs/15129/cybersecurity-intern/job?hub=12)|
+| Cox Enterprises | Atlanta, GA | [Cybersecurity Analyst Intern](https://jobs.coxenterprises.com/en/jobs/job/r202335313-cybersecurity-analyst-intern-summer-2024/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | FM Global | Norwood, MA | [Cyber Security Intern](https://jobs.fmglobalcareers.com/job/-/-/474/55580195296)|
 | Grant Thornton LLP | Multiple Locations | [Cybersecurity and Privacy Intern](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/109633?src=SNS-10068&utm_medium=jobshare)|
 | Honeywell | Multiple Locations | [Information Systems, IT, Cyber Engineer & Data Science Intern](https://careers.honeywell.com/us/en/job/req413281/Information-Systems-IT-Cyber-Engineer-Data-Science-Summer-2024-Intern-Co-Ops)
