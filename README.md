@@ -118,12 +118,17 @@ Learn to build an application from scratch with [project based learning](https:/
 
 | Company       | Location       | Position Name                         |
 |---------------|----------------|---------------------------------------|
+| Abbott | Plymouth, MN | [Cybersecurity Intern](https://www.jobs.abbott/us/en/job/31064030/2024-Cybersecurity-Summer-Intern)|
+| Blizzard | Sherman Oaks, CA | [Cybersecurity & Game Security Intern](https://careers.blizzard.com/global/en/job/R021266/2024-US-Summer-Internship-Cyber-Security-Game-Security)|
+| Blue Cross NC | Remote | [IT Cybersecurity Intern](https://careers.bluecrossnc.com/global/en/job/RQ0014488/IT-Cybersecurity-Summer-Intern)|
 | Bruker | Billerica, MA | [Cybersecurity Intern](https://englishcareers-bruker.icims.com/jobs/15129/cybersecurity-intern/job?hub=12)|
 | Cox Enterprises | Atlanta, GA | [Cybersecurity Analyst Intern](https://jobs.coxenterprises.com/en/jobs/job/r202335313-cybersecurity-analyst-intern-summer-2024/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | FM Global | Norwood, MA | [Cyber Security Intern](https://jobs.fmglobalcareers.com/job/-/-/474/55580195296)|
 | Grant Thornton LLP | Multiple Locations | [Cybersecurity and Privacy Intern](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/109633?src=SNS-10068&utm_medium=jobshare)|
 | Honeywell | Multiple Locations | [Information Systems, IT, Cyber Engineer & Data Science Intern](https://careers.honeywell.com/us/en/job/req413281/Information-Systems-IT-Cyber-Engineer-Data-Science-Summer-2024-Intern-Co-Ops)
 | Lockheed Martin | Multiple Locations | [Cybersecurity Engineer Intern](https://www.lockheedmartinjobs.com/job/marietta/cybersecurity-engineering-intern/694/55987822144) <br/> --- <br/> [Cybersecurity System Engineering Intern](https://www.lockheedmartinjobs.com/job/king-of-prussia/cybersecurity-system-engineer-intern/694/56980130720)|
+| Major League Baseball | New York, NY | [Information Security Intern](https://www.mlb.com/careers/opportunities?gh_jid=3814742&gh_src=f71116f51)|
+| Medidata Solutions | New York, NY | [Cyber Threat Intelligence Intern](https://www.medidata.com/en/careers/cyber-threat-intelligence-analyst-intern-536520/job/?source=JB-12040)|
 | PurpleBox | Atlanta, GA <br/> Remote | [Cybersecurity Intern](https://docs.google.com/forms/d/e/1FAIpQLSdZEz2jyJqGcfIe6ZTcPlsUGPSDlNUdk2BbBlrqRFu1tfOBTw/viewform)|
 | Tanium | Durham, NC | [Cloud Security Intern](https://www.tanium.com/careers/5462628?gh_jid=5462628&gh_src=f0ee6cde1us)|
 | Texas Instruments | Dallas, TX | [Information Technology Intern - Security](https://careers.ti.com/job/19004944/information-technology-intern-security-dallas-tx/)|
