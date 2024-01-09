@@ -123,10 +123,12 @@ Learn to build an application from scratch with [project based learning](https:/
 | Blizzard | Sherman Oaks, CA | [Cybersecurity & Game Security Intern](https://careers.blizzard.com/global/en/job/R021266/2024-US-Summer-Internship-Cyber-Security-Game-Security)|
 | Blue Cross NC | Remote | [IT Cybersecurity Intern](https://careers.bluecrossnc.com/global/en/job/RQ0014488/IT-Cybersecurity-Summer-Intern)|
 | Bruker | Billerica, MA | [Cybersecurity Intern](https://englishcareers-bruker.icims.com/jobs/15129/cybersecurity-intern/job?hub=12)|
+| Capital One | McLean, VA | [Cybersecurity Internship Program](https://www.capitalonecareers.com/internship-programs)|
 | Cox Enterprises | Atlanta, GA | [Cybersecurity Analyst Intern](https://jobs.coxenterprises.com/en/jobs/job/r202335313-cybersecurity-analyst-intern-summer-2024/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | FM Global | Norwood, MA | [Cyber Security Intern](https://jobs.fmglobalcareers.com/job/-/-/474/55580195296)|
 | Grant Thornton LLP | Multiple Locations | [Cybersecurity and Privacy Intern](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/109633?src=SNS-10068&utm_medium=jobshare)|
-| Honeywell | Multiple Locations | [Information Systems, IT, Cyber Engineer & Data Science Intern](https://careers.honeywell.com/us/en/job/req413281/Information-Systems-IT-Cyber-Engineer-Data-Science-Summer-2024-Intern-Co-Ops)
+| Honeywell | Multiple Locations | [Information Systems, IT, Cyber Engineer & Data Science Intern](https://careers.honeywell.com/us/en/job/req413281/Information-Systems-IT-Cyber-Engineer-Data-Science-Summer-2024-Intern-Co-Ops) |
+| Idaho National Labratory | Idaho Falls, ID | [Cybersecurity Research Intern](https://inl.taleo.net/careersection/inl_intern/jobdetail.ftl?job=20033&tz=GMT-07%3A00&tzname=PST8PDT)|
 | Lockheed Martin | Multiple Locations | [Cybersecurity Engineer Intern](https://www.lockheedmartinjobs.com/job/marietta/cybersecurity-engineering-intern/694/55987822144) <br/> --- <br/> [Cybersecurity System Engineering Intern](https://www.lockheedmartinjobs.com/job/king-of-prussia/cybersecurity-system-engineer-intern/694/56980130720)|
 | Major League Baseball | New York, NY | [Information Security Intern](https://www.mlb.com/careers/opportunities?gh_jid=3814742&gh_src=f71116f51)|
 | Medidata Solutions | New York, NY | [Cyber Threat Intelligence Intern](https://www.medidata.com/en/careers/cyber-threat-intelligence-analyst-intern-536520/job/?source=JB-12040)|
