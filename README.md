@@ -133,6 +133,7 @@ Learn to build an application from scratch with [project based learning](https:/
 | Cox Enterprises | Atlanta, GA | [Cybersecurity Analyst Intern](https://jobs.coxenterprises.com/en/jobs/job/r202335313-cybersecurity-analyst-intern-summer-2024/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | CVS Health | Woonsocket, RI | [IT Enterprise Information Security Intern](https://jobs.cvshealth.com/job/19571366/it-enterprise-information-security-intern-undergrad-summer-2024-woonsocket-ri/)|
 | FM Global | Norwood, MA | [Cyber Security Intern](https://jobs.fmglobalcareers.com/job/-/-/474/55580195296)|
+| Global Life | McKinney, TX | [Information Security Intern](https://jobs.silkroad.com/GlobeLife/Careers/jobs/5448/?source=WayUp)|
 | Grant Thornton LLP | Multiple Locations | [Cybersecurity and Privacy Intern](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/109633?src=SNS-10068&utm_medium=jobshare)|
 | Honeywell | Multiple Locations | [Information Systems, IT, Cyber Engineer & Data Science Intern](https://careers.honeywell.com/us/en/job/req413281/Information-Systems-IT-Cyber-Engineer-Data-Science-Summer-2024-Intern-Co-Ops) |
 | Idaho National Labratory | Idaho Falls, ID | [Cybersecurity Research Intern](https://inl.taleo.net/careersection/inl_intern/jobdetail.ftl?job=20033&tz=GMT-07%3A00&tzname=PST8PDT)|
@@ -146,6 +147,8 @@ Learn to build an application from scratch with [project based learning](https:/
 | PurpleBox | Atlanta, GA <br/> Remote | [Cybersecurity Intern](https://docs.google.com/forms/d/e/1FAIpQLSdZEz2jyJqGcfIe6ZTcPlsUGPSDlNUdk2BbBlrqRFu1tfOBTw/viewform)|
 | Rockwell Automation | Chelmsford, MA | [Cybersecurity Intern](https://www.wayup.com/i-Manufacturing-j-Intern-Cyber-Security-Rockwell-Automation-289333096983974/?bsft_pid=088a1797-3135-4a58-adc5-965f8bc63354&utm_source=jobalert&utm_medium=email&utm_content=application_jobalert_newjobs_cs_invite&bsft_txnid=7a9625bc-c1d4-4457-aad8-a0af20affc03&bsft_pp=1&bsft_mime_type=html&bsft_lx=4&bsft_tv=30&bsft_bk=block1&utm_campaign=jobem-automatedjobalert-newjobrec-2024-01-10&refer=jobem-automatedjobalert-newjobrec-2024-01-10)|
 | RSM | Mutliple Locations | [Cyber Testing Consulting Intern](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Des-Moines/Cyber-Testing-Consulting-Intern---Summer-2024_JR101137?source=WayUp)|
+| Serrato Corporation | Flint, MI | [Cybersecurity Student Intern](https://flint-genesee-job-corps-center.prismhr-hire.com/job/620104/student-intern-security?d=2023-09-08+17%3A01%3A02+UTC&s=wayup)|
+| Spectrum | Greenwood Village, CO | [CBO - Security Operations Intern](https://jobs.spectrum.com/job/-/-/4673/56004835120?utm_campaign=university&utm_source=way-up&utm_medium=job-listings)| 
 | Tanium | Durham, NC | [Cloud Security Intern](https://www.tanium.com/careers/5462628?gh_jid=5462628&gh_src=f0ee6cde1us)|
 | Texas Instruments | Dallas, TX | [Information Technology Intern - Security](https://careers.ti.com/job/19004944/information-technology-intern-security-dallas-tx/)|
 | The Home Depot | Remote | [Cybersecurity Intern](https://careers.homedepot.com/job/19379211/cybersecurity-internship-remote-remote/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)|
