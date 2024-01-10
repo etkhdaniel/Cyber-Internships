@@ -122,6 +122,7 @@ Learn to build an application from scratch with [project based learning](https:/
 | BBN Technologies | Columbia, MD | [Cyber Undergraduate Intern](https://careers.rtx.com/global/en/job/01652315/Summer-2024-Undergraduate-Internship-Cyber)|
 | Blizzard | Sherman Oaks, CA | [Cybersecurity & Game Security Intern](https://careers.blizzard.com/global/en/job/R021266/2024-US-Summer-Internship-Cyber-Security-Game-Security)|
 | Blue Cross NC | Remote | [IT Cybersecurity Intern](https://careers.bluecrossnc.com/global/en/job/RQ0014488/IT-Cybersecurity-Summer-Intern)|
+| Brother | Bridgewater, NJ | [IT & Cybersecurity Intern](https://careers.brother-usa.com/job/JR2751/IT-Cybersecurity-Intern-Summer-2024-Internship-Program)|
 | Bruker | Billerica, MA | [Cybersecurity Intern](https://englishcareers-bruker.icims.com/jobs/15129/cybersecurity-intern/job?hub=12)|
 | Capital One | McLean, VA | [Cybersecurity Internship Program](https://www.capitalonecareers.com/internship-programs)|
 | Confluent | Atlanta, GA | [Trust & Security Intern](https://careers.confluent.io/jobs/13726398-trust-and-security-intern-summer-2024)|
