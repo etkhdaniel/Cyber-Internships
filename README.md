@@ -136,6 +136,7 @@ Learn to build an application from scratch with [project based learning](https:/
 | Confluent | Atlanta, GA | [Trust & Security Intern](https://careers.confluent.io/jobs/13726398-trust-and-security-intern-summer-2024)|
 | Cox Enterprises | Atlanta, GA | [Cybersecurity Analyst Intern](https://jobs.coxenterprises.com/en/jobs/job/r202335313-cybersecurity-analyst-intern-summer-2024/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | CVS Health | Woonsocket, RI | [IT Enterprise Information Security Intern](https://jobs.cvshealth.com/job/19571366/it-enterprise-information-security-intern-undergrad-summer-2024-woonsocket-ri/)|
+| Depository Trust & Clearing Corporation| Tampla, FL | [Technology Risk Management Intern](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/207111/?keyword=intern&mode=location)|
 | FM Global | Norwood, MA | [Cyber Security Intern](https://jobs.fmglobalcareers.com/job/-/-/474/55580195296)|
 | Global Life | McKinney, TX | [Information Security Intern](https://jobs.silkroad.com/GlobeLife/Careers/jobs/5448/?source=WayUp)|
 | Grant Thornton LLP | Multiple Locations | [Cybersecurity and Privacy Intern](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/109633?src=SNS-10068&utm_medium=jobshare)|
@@ -143,6 +144,7 @@ Learn to build an application from scratch with [project based learning](https:/
 | Idaho National Labratory | Idaho Falls, ID | [Cybersecurity Research Intern](https://inl.taleo.net/careersection/inl_intern/jobdetail.ftl?job=20033&tz=GMT-07%3A00&tzname=PST8PDT)|
 | Inari Medical | Irvine, CA | [Cybersecurity Intern](https://www.inarimedical.com/careers/?p=job/oIf3qfwa&nl=1)|
 | Johns Hopkins Applied Physics Laboratory | Larurel, MD | [Cybersecurity - Cyber Dominance Intern](https://careers.jhuapl.edu/jobs/53492?lang=en-us)|
+| Juniper Networks | Sunnyvale, CA | [Security Engineer Intern](https://careers.juniper.net/#/jobdescription?jid=1009970) <br/> --- <br/> [Software Assurance Intern (Cybersecurity](https://careers.juniper.net/#/jobdescription?jid=1009971)|
 | Land's End | Dodgeville, WI | [Security Operations Engineer Intern](https://recruiting2.ultipro.com/LAN1015LANDE/JobBoard/0f579f73-6154-4f97-bd67-af9997c0dc18/OpportunityDetail?opportunityId=c49b6292-c661-4975-bf28-ed708fd0cf2b)|
 | Lockheed Martin | Multiple Locations | [Cybersecurity Engineer Intern](https://www.lockheedmartinjobs.com/job/marietta/cybersecurity-engineering-intern/694/55987822144) <br/> --- <br/> [Cybersecurity System Engineering Intern](https://www.lockheedmartinjobs.com/job/king-of-prussia/cybersecurity-system-engineer-intern/694/56980130720)|
 | Major League Baseball | New York, NY | [Information Security Intern](https://www.mlb.com/careers/opportunities?gh_jid=3814742&gh_src=f71116f51)|
@@ -163,3 +165,4 @@ Learn to build an application from scratch with [project based learning](https:/
 | Visa | Austin, TX | [Associate Cybersecurity Analyst Intern](https://jobs.smartrecruiters.com/Visa/743999957664607-associate-cybersecurity-analyst-intern)|
 | White Cap | Norcross, GA | [Cyber Security Intern](https://whitecap.jobs/norcross-ga/cyber-security-intern-summer-2024/26A455F55F16402B98633AA9B4709453/job/?vs=10) <br/> --- <br/> [Information Security Intern](https://whitecap.jobs/norcross-ga/information-security-intern-summer-2024/9CEEFD86B07A413DA6E4D6DE81C50F24/job/?vs=1548&utm_source=LinkedIn.com-DE&utm_medium=Social%20Media&utm_campaign=LinkedIn.com) <br/> --- <br/> [Vendor Relations & Governance Intern](https://whitecap.jobs/norcross-ga/vendor-relations-governance-intern-summer-2024/2EE15AF22B0D4A87891B84EDDAA4A4CE/job/?vs=10)|
 | Xylem | Boise, ID | [Cyber Security Operations Intern](https://www.xylem.com/en-us/careers/career-opportunities/intern---cyber-security-operations---summer-2024/)|
+| Zions Bancorporation | Midvale, UT | [Data Technology, Cybersecurity & Risk Oversight Intern](https://careers.zionsbancorp.com/jobs/intern-data-technology-cybersecurity-risk-oversight-18092) |
