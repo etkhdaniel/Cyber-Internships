@@ -120,6 +120,7 @@ Learn to build an application from scratch with [project based learning](https:/
 |---------------|----------------|---------------------------------------|
 | Abbott | Plymouth, MN | [Cybersecurity Intern](https://www.jobs.abbott/us/en/job/31064030/2024-Cybersecurity-Summer-Intern)|
 | Acxiom | Remote | [Produce Security](https://acxiomllc.wd5.myworkdayjobs.com/en-US/AcxiomUSA/job/RemoteHomebased/Intern--Product-Security--SUMMER-_JR011365?source=WayUp)|
+| Adobe | Remote | [Cyber Security Intern](https://careers.adobe.com/us/en/job/R141496/2024-Cyber-Security-Intern-CCF-Automation)|
 | BBN Technologies | Columbia, MD | [Cyber Undergraduate Intern](https://careers.rtx.com/global/en/job/01652315/Summer-2024-Undergraduate-Internship-Cyber)|
 | Belk | Charlotte, NC | [IT Security Intern](https://www.belkcareers.com/job/BELKUSJR73489/2024-Belk-Internship-Program-IT-Security)|
 | Blizzard | Sherman Oaks, CA | [Cybersecurity & Game Security Intern](https://careers.blizzard.com/global/en/job/R021266/2024-US-Summer-Internship-Cyber-Security-Game-Security)|
