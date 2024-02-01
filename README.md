@@ -129,7 +129,7 @@ Learn to build an application from scratch with [project based learning](https:/
 | Bruker | Billerica, MA | [Cybersecurity Intern](https://englishcareers-bruker.icims.com/jobs/15129/cybersecurity-intern/job?hub=12)|
 | Capital One | McLean, VA | [Cybersecurity Internship Program](https://www.capitalonecareers.com/internship-programs)|
 | CME Group | Chicago, IL | [Cyber Defense Resonse Intern](https://jobs.cmegroup.com/jobs/13605955-cyber-defense-response-intern-summer-2024?bid=446) <br> --- <br/> [Global Information Security Cyber Defense Monitoring Intern](https://jobs.cmegroup.com/jobs/13626290-global-information-security-cyber-defense-monitoring-internship-summer-2024?bid=446)|
-| Coca Cola | Atlanta, GA | [Cybersecurity Summer Graduate Intern](https://careers.coca-colacompany.com/job/19726502/cybersecurity-summer-graduate-intern-atlanta-ga/)|
+| Coca Cola | Atlanta, GA | [Cybersecurity Summer Graduate Intern](https://careers.coca-colacompany.com/job/19726502/cybersecurity-summer-graduate-intern-atlanta-ga/) <br/> [Cybersecurity Summer Undergraduate Intern](https://careers.coca-colacompany.com/job/19726504/cybersecurity-summer-undergraduate-intern-atlanta-ga/)|
 | Confluent | Atlanta, GA | [Trust & Security Intern](https://careers.confluent.io/jobs/13726398-trust-and-security-intern-summer-2024)|
 | Cox Enterprises | Atlanta, GA | [Cybersecurity Analyst Intern](https://jobs.coxenterprises.com/en/jobs/job/r202335313-cybersecurity-analyst-intern-summer-2024/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | CVS Health | Woonsocket, RI | [IT Enterprise Information Security Intern](https://jobs.cvshealth.com/job/19571366/it-enterprise-information-security-intern-undergrad-summer-2024-woonsocket-ri/)|
