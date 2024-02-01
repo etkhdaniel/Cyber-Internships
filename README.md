@@ -128,9 +128,11 @@ Learn to build an application from scratch with [project based learning](https:/
 | Booz Allen | Annapolis Junction, MD | [Cyber Intern](https://careers.boozallen.com/jobs/JobDetail/Annapolis-Junction-2024-Cyber-Internship-R0180656/85499)|
 | Brother | Bridgewater, NJ | [IT & Cybersecurity Intern](https://careers.brother-usa.com/job/JR2751/IT-Cybersecurity-Intern-Summer-2024-Internship-Program)|
 | Bruker | Billerica, MA | [Cybersecurity Intern](https://englishcareers-bruker.icims.com/jobs/15129/cybersecurity-intern/job?hub=12)|
+| CACI | High Point, NC | [Cybersecurity Engineer Intern](https://careers.caci.com/global/en/job/291469/Cybersecurity-Engineer-Intern-Summer-2024)|
 | Capital One | McLean, VA | [Cybersecurity Internship Program](https://www.capitalonecareers.com/internship-programs)|
 | CME Group | Chicago, IL | [Cyber Defense Resonse Intern](https://jobs.cmegroup.com/jobs/13605955-cyber-defense-response-intern-summer-2024?bid=446) <br> --- <br/> [Global Information Security Cyber Defense Monitoring Intern](https://jobs.cmegroup.com/jobs/13626290-global-information-security-cyber-defense-monitoring-internship-summer-2024?bid=446)|
 | Coca Cola | Atlanta, GA | [Cybersecurity Summer Graduate Intern](https://careers.coca-colacompany.com/job/19726502/cybersecurity-summer-graduate-intern-atlanta-ga/) <br/> --- <br/> [Cybersecurity Summer Undergraduate Intern](https://careers.coca-colacompany.com/job/19726504/cybersecurity-summer-undergraduate-intern-atlanta-ga/)|
+| Comerica Bank | Auburn Hills, MI | [Summer 2024 Technology & Cybersecurity Intern](https://careers.comerica.com/job/18891109/summer-2024-technology-cybersecurity-internship-in-auburn-hills-mi-auburn-hills-mi/)|
 | Confluent | Atlanta, GA | [Trust & Security Intern](https://careers.confluent.io/jobs/13726398-trust-and-security-intern-summer-2024)|
 | Cox Enterprises | Atlanta, GA | [Cybersecurity Analyst Intern](https://jobs.coxenterprises.com/en/jobs/job/r202335313-cybersecurity-analyst-intern-summer-2024/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | CVS Health | Woonsocket, RI | [IT Enterprise Information Security Intern](https://jobs.cvshealth.com/job/19571366/it-enterprise-information-security-intern-undergrad-summer-2024-woonsocket-ri/)|
