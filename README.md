@@ -137,6 +137,7 @@ Learn to build an application from scratch with [project based learning](https:/
 | Cox Enterprises | Atlanta, GA | [Cybersecurity Analyst Intern](https://jobs.coxenterprises.com/en/jobs/job/r202335313-cybersecurity-analyst-intern-summer-2024/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | CVS Health | Woonsocket, RI | [IT Enterprise Information Security Intern](https://jobs.cvshealth.com/job/19571366/it-enterprise-information-security-intern-undergrad-summer-2024-woonsocket-ri/)|
 | Depository Trust & Clearing Corporation| Tampla, FL | [Technology Risk Management Intern](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/207111/?keyword=intern&mode=location)|
+| Fiserv | Alpharetta, GA | [Summer Internship Program - Technology Majors](https://fiserv.wd5.myworkdayjobs.com/EXT/job/Alpharetta-Georgia/XMLNAME-2024-Summer-Internship-Program---Technology-Majors--Alpharetta--Ga-_R-10329702)|
 | FM Global | Norwood, MA | [Cyber Security Intern](https://jobs.fmglobalcareers.com/job/-/-/474/55580195296)|
 | Global Life | McKinney, TX | [Information Security Intern](https://jobs.silkroad.com/GlobeLife/Careers/jobs/5448/?source=WayUp)|
 | Grant Thornton LLP | Multiple Locations | [Cybersecurity and Privacy Intern](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/109633?src=SNS-10068&utm_medium=jobshare)|
@@ -149,6 +150,7 @@ Learn to build an application from scratch with [project based learning](https:/
 | Lockheed Martin | Multiple Locations | [Cybersecurity Engineer Intern](https://www.lockheedmartinjobs.com/job/marietta/cybersecurity-engineering-intern/694/55987822144) <br/> --- <br/> [Cybersecurity System Engineering Intern](https://www.lockheedmartinjobs.com/job/king-of-prussia/cybersecurity-system-engineer-intern/694/56980130720)|
 | Major League Baseball | New York, NY | [Information Security Intern](https://www.mlb.com/careers/opportunities?gh_jid=3814742&gh_src=f71116f51)|
 | Medidata Solutions | New York, NY | [Cyber Threat Intelligence Intern](https://www.medidata.com/en/careers/cyber-threat-intelligence-analyst-intern-536520/job/?source=JB-12040)|
+| Novolox | Multiple Locations | [Cybersecurity Intern](https://novolex.com/fo/components/details.html?nPostingId=3619&nPostingTargetId=8466&id=Q2CFK026203F3VBQBLOLOV74G&LG=EN&languageSelect=EN&mask=external&sType=Handshake)|
 | NVIDIA | Santa Clara, CA | [Information Security Analyst Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Information-Security-Analyst-Intern---Summer-2024_JR1974587-1?q=security&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&workerSubType=ab40a98049581037a3ada55b087049b7&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8)|
 | OmniSOC | Indiana | [Cybersecurity Intern](https://omnisoc.iu.edu/internships/index.html)|
 | Peraton | Silver Spring, MD | [Cyber Research Intern](https://careers.peraton.com/jobs/summer-2024-cyber-research-intern-silver-spring-md-silver-spring-maryland-jobs)|
@@ -156,6 +158,7 @@ Learn to build an application from scratch with [project based learning](https:/
 | Rockwell Automation | Chelmsford, MA | [Cybersecurity Intern](https://www.wayup.com/i-Manufacturing-j-Intern-Cyber-Security-Rockwell-Automation-289333096983974/?bsft_pid=088a1797-3135-4a58-adc5-965f8bc63354&utm_source=jobalert&utm_medium=email&utm_content=application_jobalert_newjobs_cs_invite&bsft_txnid=7a9625bc-c1d4-4457-aad8-a0af20affc03&bsft_pp=1&bsft_mime_type=html&bsft_lx=4&bsft_tv=30&bsft_bk=block1&utm_campaign=jobem-automatedjobalert-newjobrec-2024-01-10&refer=jobem-automatedjobalert-newjobrec-2024-01-10)|
 | RSM | Mutliple Locations | [Cyber Testing Consulting Intern](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Des-Moines/Cyber-Testing-Consulting-Intern---Summer-2024_JR101137?source=WayUp)|
 | Serrato Corporation | Flint, MI | [Cybersecurity Student Intern](https://flint-genesee-job-corps-center.prismhr-hire.com/job/620104/student-intern-security?d=2023-09-08+17%3A01%3A02+UTC&s=wayup)|
+| Southern Poverty Law Center | Atlanta, GA | [IT Cybersecurity Intern](https://www.splcenter.org/about/careers/jobs?gh_jid=7120667002)|
 | Spectrum | Greenwood Village, CO | [CBO - Security Operations Intern](https://jobs.spectrum.com/job/-/-/4673/56004835120?utm_campaign=university&utm_source=way-up&utm_medium=job-listings)| 
 | STR | Arlington, VA | [Enterprise Cybersecurity Summer Intern](https://boards.greenhouse.io/systemstechnologyresearch/jobs/4326288006)|
 | Tanium | Durham, NC | [Cloud Security Intern](https://www.tanium.com/careers/5462628?gh_jid=5462628&gh_src=f0ee6cde1us)|
